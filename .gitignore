@@ -1,2 +1,5 @@
 # Virtual Envoirnment Ignore
 env/
+
+# Django Decouple
+.env
